@@ -3,8 +3,8 @@
 - 🌱 I’m experienced in building end-to-end data pipeline.
 - 💞️ I’m looking to collaborate on any software and data engineering projects.
 - 📫 How to reach me: sumbono102@gmail.com
-- ✨ My sample live project: [StockPricePredictor](https://stockprice-predictor-10207.herokuapp.com/)
 - ✨ My GCP badges: [GoogleCloudSkills](https://bit.ly/GoogleCloudSkillSumbono)
+- ✨ [Personal Website](https://sumbono.github.io/)
 
 <!---
 sumbono/sumbono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
