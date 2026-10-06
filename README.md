@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any software and data engineering projects.
 - 📫 How to reach me: sumbono102@gmail.com
 - ✨ My GCP badges: [GoogleCloudSkills](https://bit.ly/GoogleCloudSkillSumbono)
-- ✨ [Personal Website](https://sumbono.github.io/) -->
+- ✨ [Personal Website](https://sumbono.dev/) -->
 
 <!---
 sumbono/sumbono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 🌱 Experienced in building end-to-end data pipeline.<br>
 💞️ Looking to collaborate on any software and data engineering projects.<br>
 ✨ Badges: [AWS](https://www.credly.com/badges/7811483d-f83f-4499-9426-5807cab3b21c/linked_in?t=rwn5bp) | [GoogleCloudSkills](https://bit.ly/GoogleCloudSkillSumbono)<br>
-📫 How to reach me: [Email](mailto:sumbono102@gmail.com) | [Personal Website](https://sumbono.github.io/)<br>
+📫 How to reach me: [Email](mailto:sumbono102@gmail.com) | [Personal Website](https://sumbono.dev/)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumbono) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sumbono102) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kakbonoo) 
